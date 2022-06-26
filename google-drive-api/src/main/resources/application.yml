@@ -1,0 +1,6 @@
+# Google Drive API
+google:
+ service_account_email: drive-connect-api@drive-connect-api.iam.gserviceaccount.com
+ application_name: drive-connect-api
+ folder_id: 1OHEpfOb4-YP5Gdxq4gl2leA9IiLPefSL
+ service_account_key: drive-connect-api-f6348c0706c4.p12
